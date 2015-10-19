@@ -6,3 +6,7 @@ Choose the type of simulator using:
 5. W-Choices : <SimulatorType inFileName outFileName serversNo initialTime>
 6. Round Robin: <SimulatorType inFileName outFileName serversNo initialTime>
 
+---------
+Sources
+---------
+https://melmeric.files.wordpress.com/2014/11/the-power-of-both-choices-practical-load-balancing-for-distributed-stream-processing-engines.pdf
