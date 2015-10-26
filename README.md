@@ -9,4 +9,5 @@ Choose the type of simulator using:
 ---------
 Sources
 ---------
-https://melmeric.files.wordpress.com/2014/11/the-power-of-both-choices-practical-load-balancing-for-distributed-stream-processing-engines.pdf
+1. https://melmeric.files.wordpress.com/2014/11/the-power-of-both-choices-practical-load-balancing-for-distributed-stream-processing-engines.pdf
+2. http://arxiv.org/pdf/1510.05714v2.pdf
