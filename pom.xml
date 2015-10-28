@@ -5,6 +5,11 @@
     <artifactId>StreamLoadBalancing</artifactId>
     <version>0.0.5-SNAPSHOT</version>
     <dependencies>
+	<dependency>
+      		<groupId>com.google.guava</groupId>
+      		<artifactId>guava</artifactId>
+      		<version>17.0</version>
+    	</dependency>
         <dependency>
             <groupId>com.clearspring.analytics</groupId>
             <artifactId>stream</artifactId>
